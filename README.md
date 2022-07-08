@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Felipe Cechin Mello and I'm a Full-Stack Developer, from Brazil.</p>
+<p align="left">My name is Felipe Cechin Mello and I'm a Full-Stack Developer, from Brazil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 15 years old.<br>📚 I'm currently working on Easy Auth Sistemas as a Front-end Developer, using React, Next.js and Tailwind CSS.</p>
+<p align="left">✨ Creating bugs since 15 years old<br>📚 I'm currently working on Easy Auth Sistemas as a Front-end Developer, using React, Next.js and Tailwind CSS.</p>
 
 ###
 
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
 </div>
 
 ###
