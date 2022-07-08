@@ -39,5 +39,3 @@
 </div>
 
 ###
-
-Profile Readme Generator
