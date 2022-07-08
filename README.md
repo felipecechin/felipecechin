@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Felipe Cechin Mello and I'm a Full-Stack Developer, from Brazil</p>
+<p align="left">My name is Felipe Cechin Mello and I'm a Full-Stack Developer, from Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 15 years old<br>📚 I'm currently working on Easy Auth Sistemas as a Front-end Developer, using React, Next.js and Tailwind CSS.</p>
+<p align="left">✨ Creating bugs since 15 years old.<br>📚 I'm currently working on Easy Auth Sistemas as a Front-end Developer, using React, Next.js and Tailwind CSS.</p>
 
 ###
 
