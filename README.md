@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Felipe Cechin Mello and I'm a Full-Stack Developer, from Brazil.</p>
+<p align="left">My name is Felipe Cechin and I'm a Full-Stack Developer, from Brazil.</p>
 
 ###
 
